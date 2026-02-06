@@ -10,7 +10,6 @@ void Display()
         cout<<"Jay Ganesh...\n";
     }
 }
-
 int main()
 {
     Display();
