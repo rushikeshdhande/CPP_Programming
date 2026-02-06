@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 void Display()
 {
     int iCnt = 0;
