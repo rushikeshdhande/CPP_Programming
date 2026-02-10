@@ -2,7 +2,7 @@
 using namespace std;
 void Display()
 {
-    int iCnt = 0;
+   int iCnt = 0;
 
     for(iCnt = 1; iCnt <= 4; iCnt++)
     {
@@ -12,6 +12,5 @@ void Display()
 int main()
 {
     Display();
-
     return 0;
 }
