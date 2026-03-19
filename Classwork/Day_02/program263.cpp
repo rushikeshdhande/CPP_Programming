@@ -8,7 +8,6 @@ T Add(T No1, T No2)
     Ans = No1 + No2;
     return Ans;
 }
-
 int main()
 {
     int iValue1 = 10, iValue2 = 11, iRet = 0;
